@@ -14,6 +14,7 @@ depth : http://183.106.113.109/30stair/depth/depth.php?pname=depth
 
 esrever : http://183.106.113.109/30stair/esrever/esrever.php?pname=esrever
 
+virus1 : http://183.106.113.109/30stair/virus1/virus1.php?pname=virus1&stair=16
 
 
 #Algospot Codes
