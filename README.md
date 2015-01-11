@@ -22,6 +22,8 @@ crypt : http://183.106.113.109/30stair/crypt/crypt.php?pname=crypt
 
 octal : http://183.106.113.109/30stair/octal/octal.php?pname=octal
 
+measure : http://183.106.113.109/30stair/measure/measure.php?pname=measure&stair=10
+
 #Algospot Codes
 Domain : https://algospot.com/
 
