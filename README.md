@@ -16,6 +16,7 @@ esrever : http://183.106.113.109/30stair/esrever/esrever.php?pname=esrever
 
 virus1 : http://183.106.113.109/30stair/virus1/virus1.php?pname=virus1&stair=16
 
+guessing_game : http://183.106.113.109/30stair/guessing_game/guessing_game.php?pname=guessing_game&stair=10
 
 #Algospot Codes
 Domain : https://algospot.com/
