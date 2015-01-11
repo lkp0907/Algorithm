@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8364EFB61A615B86000A8953 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFB51A615B86000A8953 /* README.md */; };
-		8364EFB81A617B2F000A8953 /* virus1.c in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFB71A617B2F000A8953 /* virus1.c */; };
+		8364EFBA1A61B1EE000A8953 /* braveduck.c in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFB91A61B1EE000A8953 /* braveduck.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +33,7 @@
 		8364EFB41A615A60000A8953 /* postorder.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = postorder.c; sourceTree = "<group>"; };
 		8364EFB51A615B86000A8953 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		8364EFB71A617B2F000A8953 /* virus1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = virus1.c; sourceTree = "<group>"; };
+		8364EFB91A61B1EE000A8953 /* braveduck.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = braveduck.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				8364EFAE1A615A48000A8953 /* BRACKETS2.cpp */,
+				8364EFB91A61B1EE000A8953 /* braveduck.c */,
 			);
 			name = Algospot;
 			sourceTree = "<group>";
@@ -149,8 +151,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8364EFBA1A61B1EE000A8953 /* braveduck.c in Sources */,
 				8364EFB61A615B86000A8953 /* README.md in Sources */,
-				8364EFB81A617B2F000A8953 /* virus1.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

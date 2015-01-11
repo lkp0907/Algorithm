@@ -21,3 +21,5 @@ virus1 : http://183.106.113.109/30stair/virus1/virus1.php?pname=virus1&stair=16
 Domain : https://algospot.com/
 
 BRACKETS2 : https://algospot.com/judge/problem/read/BRACKETS2
+
+BRAVEDUCK : https://algospot.com/judge/problem/read/BRAVEDUCK
