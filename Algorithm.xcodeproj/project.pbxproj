@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		832B0E401A628D000071BB64 /* octal.c in Sources */ = {isa = PBXBuildFile; fileRef = 832B0E3F1A628D000071BB64 /* octal.c */; };
 		8364EFB61A615B86000A8953 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFB51A615B86000A8953 /* README.md */; };
-		8364EFBE1A624997000A8953 /* crypt.c in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFBD1A624997000A8953 /* crypt.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		832B0E3F1A628D000071BB64 /* octal.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = octal.c; sourceTree = "<group>"; };
 		8364EFA21A615A1C000A8953 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		8364EFAE1A615A48000A8953 /* BRACKETS2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BRACKETS2.cpp; sourceTree = "<group>"; };
 		8364EFB01A615A60000A8953 /* catalan.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = catalan.c; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 		8364EFAC1A615A24000A8953 /* Dovelet */ = {
 			isa = PBXGroup;
 			children = (
+				832B0E3F1A628D000071BB64 /* octal.c */,
 				8364EFB01A615A60000A8953 /* catalan.c */,
 				8364EFB11A615A60000A8953 /* catch_cow.c */,
 				8364EFB21A615A60000A8953 /* depth.c */,
@@ -155,8 +157,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8364EFBE1A624997000A8953 /* crypt.c in Sources */,
 				8364EFB61A615B86000A8953 /* README.md in Sources */,
+				832B0E401A628D000071BB64 /* octal.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

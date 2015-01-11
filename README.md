@@ -20,6 +20,8 @@ guessing_game : http://183.106.113.109/30stair/guessing_game/guessing_game.php?p
 
 crypt : http://183.106.113.109/30stair/crypt/crypt.php?pname=crypt
 
+octal : http://183.106.113.109/30stair/octal/octal.php?pname=octal
+
 #Algospot Codes
 Domain : https://algospot.com/
 
