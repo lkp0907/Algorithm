@@ -26,6 +26,8 @@ measure : http://183.106.113.109/30stair/measure/measure.php?pname=measure&stair
 
 dfs : http://183.106.113.109/30stair/dfs/dfs.php?pname=dfs
 
+sort : http://183.106.113.109/30stair/sort/sort.php?pname=sort&stair=10
+
 #Algospot Codes
 Domain : https://algospot.com/
 
