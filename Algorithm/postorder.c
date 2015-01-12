@@ -40,9 +40,7 @@ int main(void){
     int root;
     scanf("%d",&root);
     tree[1]=root;
-    
     preOrder(1);
     postOrder(1);
-    
     return 0;
 }

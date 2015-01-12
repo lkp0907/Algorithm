@@ -24,6 +24,8 @@ octal : http://183.106.113.109/30stair/octal/octal.php?pname=octal
 
 measure : http://183.106.113.109/30stair/measure/measure.php?pname=measure&stair=10
 
+dfs : http://183.106.113.109/30stair/dfs/dfs.php?pname=dfs
+
 #Algospot Codes
 Domain : https://algospot.com/
 

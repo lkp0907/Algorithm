@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		832B0E471A62A6000071BB64 /* measure.c in Sources */ = {isa = PBXBuildFile; fileRef = 832B0E451A62A6000071BB64 /* measure.c */; };
+		832B0E491A6347420071BB64 /* sort.c in Sources */ = {isa = PBXBuildFile; fileRef = 832B0E481A6347420071BB64 /* sort.c */; };
+		832B0E4B1A63AB730071BB64 /* dfs.c in Sources */ = {isa = PBXBuildFile; fileRef = 832B0E4A1A63AB730071BB64 /* dfs.c */; };
 		8364EFB61A615B86000A8953 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFB51A615B86000A8953 /* README.md */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +30,8 @@
 		832B0E411A62987F0071BB64 /* bsearch.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = bsearch.c; sourceTree = "<group>"; };
 		832B0E431A62A28F0071BB64 /* dam.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dam.c; sourceTree = "<group>"; };
 		832B0E451A62A6000071BB64 /* measure.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = measure.c; sourceTree = "<group>"; };
+		832B0E481A6347420071BB64 /* sort.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sort.c; sourceTree = "<group>"; };
+		832B0E4A1A63AB730071BB64 /* dfs.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = dfs.c; sourceTree = "<group>"; };
 		8364EFA21A615A1C000A8953 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		8364EFAE1A615A48000A8953 /* BRACKETS2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BRACKETS2.cpp; sourceTree = "<group>"; };
 		8364EFB01A615A60000A8953 /* catalan.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = catalan.c; sourceTree = "<group>"; };
@@ -94,6 +98,8 @@
 				832B0E411A62987F0071BB64 /* bsearch.c */,
 				832B0E431A62A28F0071BB64 /* dam.c */,
 				832B0E451A62A6000071BB64 /* measure.c */,
+				832B0E481A6347420071BB64 /* sort.c */,
+				832B0E4A1A63AB730071BB64 /* dfs.c */,
 			);
 			name = Dovelet;
 			sourceTree = "<group>";
@@ -163,8 +169,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				832B0E491A6347420071BB64 /* sort.c in Sources */,
 				832B0E471A62A6000071BB64 /* measure.c in Sources */,
 				8364EFB61A615B86000A8953 /* README.md in Sources */,
+				832B0E4B1A63AB730071BB64 /* dfs.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
