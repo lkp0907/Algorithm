@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		832B0E521A6410040071BB64 /* sort.c in Sources */ = {isa = PBXBuildFile; fileRef = 832B0E481A6347420071BB64 /* sort.c */; };
+		832B0E591A65026E0071BB64 /* beeper.c in Sources */ = {isa = PBXBuildFile; fileRef = 832B0E581A65026E0071BB64 /* beeper.c */; };
 		8364EFB61A615B86000A8953 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFB51A615B86000A8953 /* README.md */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +33,9 @@
 		832B0E4C1A63AC330071BB64 /* zerosum.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zerosum.c; sourceTree = "<group>"; };
 		832B0E4E1A63AE230071BB64 /* aggressive.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = aggressive.c; sourceTree = "<group>"; };
 		832B0E501A63BE290071BB64 /* sprime.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sprime.c; sourceTree = "<group>"; };
+		832B0E541A64B08F0071BB64 /* barn.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = barn.c; sourceTree = "<group>"; };
+		832B0E561A64CD8D0071BB64 /* knapsack.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = knapsack.c; sourceTree = "<group>"; };
+		832B0E581A65026E0071BB64 /* beeper.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = beeper.c; sourceTree = "<group>"; };
 		8364EFA21A615A1C000A8953 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		8364EFAE1A615A48000A8953 /* BRACKETS2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BRACKETS2.cpp; sourceTree = "<group>"; };
 		8364EFB01A615A60000A8953 /* catalan.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = catalan.c; sourceTree = "<group>"; };
@@ -88,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				832B0E3F1A628D000071BB64 /* octal.c */,
+				832B0E581A65026E0071BB64 /* beeper.c */,
 				8364EFB01A615A60000A8953 /* catalan.c */,
 				8364EFB11A615A60000A8953 /* catch_cow.c */,
 				8364EFB21A615A60000A8953 /* depth.c */,
@@ -104,6 +108,8 @@
 				832B0E4C1A63AC330071BB64 /* zerosum.c */,
 				832B0E4E1A63AE230071BB64 /* aggressive.c */,
 				832B0E501A63BE290071BB64 /* sprime.c */,
+				832B0E541A64B08F0071BB64 /* barn.c */,
+				832B0E561A64CD8D0071BB64 /* knapsack.c */,
 			);
 			name = Dovelet;
 			sourceTree = "<group>";
@@ -173,8 +179,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				832B0E591A65026E0071BB64 /* beeper.c in Sources */,
 				8364EFB61A615B86000A8953 /* README.md in Sources */,
-				832B0E521A6410040071BB64 /* sort.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -28,6 +28,11 @@ dfs : http://183.106.113.109/30stair/dfs/dfs.php?pname=dfs
 
 sort : http://183.106.113.109/30stair/sort/sort.php?pname=sort&stair=10
 
+barn : http://183.106.113.109/30stair/barn/barn.php?pname=barn
+
+knapsack : http://183.106.113.109/30stair/knapsack/knapsack.php?pname=knapsack
+
+
 #Algospot Codes
 Domain : https://algospot.com/
 
