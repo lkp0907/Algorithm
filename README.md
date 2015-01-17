@@ -32,6 +32,17 @@ barn : http://183.106.113.109/30stair/barn/barn.php?pname=barn
 
 knapsack : http://183.106.113.109/30stair/knapsack/knapsack.php?pname=knapsack
 
+bumblebee : http://183.106.113.109/30stair/bumblebee/bumblebee.php?pname=bumblebee
+
+nuclear : http://183.106.113.109/30stair/nuclear/nuclear.php?pname=nuclear
+
+joana : http://183.106.113.109/30stair/joana/joana.php?pname=joana
+
+flr : http://183.106.113.109/30stair/flr/flr.php?pname=flr
+
+even : http://183.106.113.109/30stair/even/even.php?pname=even
+
+coci_intersect : http://183.106.113.109/30stair/coci_intersect/coci_intersect.php?pname=coci_intersect
 
 #Algospot Codes
 Domain : https://algospot.com/
