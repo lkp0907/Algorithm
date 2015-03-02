@@ -44,6 +44,20 @@ even : http://183.106.113.109/30stair/even/even.php?pname=even
 
 coci_intersect : http://183.106.113.109/30stair/coci_intersect/coci_intersect.php?pname=coci_intersect
 
+color : http://183.106.113.109/30stair/color/color.php?pname=color
+
+dwarf : http://183.106.113.109/30stair/dwarf/dwarf.php?pname=dwarf
+
+koi_guard : http://183.106.113.109/pool/koi_guard/koi_guard.php?pname=koi_guard
+
+maze : http://183.106.113.109/30stair/maze/maze.php?pname=maze
+
+euler : http://183.106.113.109/30stair/euler/euler.php?pname=euler
+
+mt : http://183.106.113.109/30stair/mt/mt.php?pname=mt
+
+gc : http://183.106.113.109/30stair/gc/gc.php?pname=gc
+
 #Algospot Codes
 Domain : https://algospot.com/
 
@@ -51,3 +65,6 @@ BRACKETS2 : https://algospot.com/judge/problem/read/BRACKETS2
 
 BRAVEDUCK : https://algospot.com/judge/problem/read/BRAVEDUCK
 
+ENCRYPT : https://algospot.com/judge/problem/read/ENCRYPT
+
+JumpGame : https://algospot.com/judge/problem/read/JUMPGAME

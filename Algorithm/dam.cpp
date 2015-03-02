@@ -61,10 +61,11 @@ void checkDam(){
     
     for (int i=1; i<=T; i++) {
         for (int j=1; j<=T; j++) {
-            if(dam[j][i]==K+1){
+            if(dam[i][j]==K+1){
                 count++;
             }
         }
+      
     }
 }
 

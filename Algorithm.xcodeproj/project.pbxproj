@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8301D4D01A6AAB81005F78BE /* nuclear.c in Sources */ = {isa = PBXBuildFile; fileRef = 8301D4CF1A6AAB81005F78BE /* nuclear.c */; };
 		8364EFB61A615B86000A8953 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8364EFB51A615B86000A8953 /* README.md */; };
+		83A2CE2B1AA494B2000EC8AF /* ENCRYPT.c in Sources */ = {isa = PBXBuildFile; fileRef = 83A2CE2A1AA494B2000EC8AF /* ENCRYPT.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +51,8 @@
 		8364EFB91A61B1EE000A8953 /* braveduck.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = braveduck.c; sourceTree = "<group>"; };
 		8364EFBB1A623D4E000A8953 /* guessing_game.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = guessing_game.c; sourceTree = "<group>"; };
 		8364EFBD1A624997000A8953 /* crypt.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = crypt.c; sourceTree = "<group>"; };
+		838A554E1A7A127A00922E14 /* gc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = gc.c; sourceTree = "<group>"; };
+		83A2CE2A1AA494B2000EC8AF /* ENCRYPT.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ENCRYPT.c; sourceTree = "<group>"; };
 		83CDEEAF1A660BE40024906A /* scv.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = scv.cpp; sourceTree = "<group>"; };
 		83CDEEB11A6611840024906A /* range.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = range.cpp; sourceTree = "<group>"; };
 		83CDEEB41A663AB40024906A /* partition.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = partition.cpp; sourceTree = "<group>"; };
@@ -61,6 +63,14 @@
 		83CDEEBE1A67E9E60024906A /* pat.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pat.c; sourceTree = "<group>"; };
 		83CDEEC21A692C130024906A /* coci_intersect.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = coci_intersect.c; sourceTree = "<group>"; };
 		83CDEEC51A6931C80024906A /* even.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = even.c; sourceTree = "<group>"; };
+		83CE587A1A6BCAD000770524 /* calc.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = calc.cpp; sourceTree = "<group>"; };
+		83CE58C71A6DEBEF00770524 /* color.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = color.c; sourceTree = "<group>"; };
+		83CE58CC1A6E3CDF00770524 /* dwarf.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = dwarf.cpp; sourceTree = "<group>"; };
+		83CE58CE1A6E49D000770524 /* koi_guard.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = koi_guard.c; sourceTree = "<group>"; };
+		83CF40EB1A6F235500BECD68 /* maze_dfs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = maze_dfs.cpp; sourceTree = "<group>"; };
+		83CF40ED1A6F5F1C00BECD68 /* euler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = euler.cpp; sourceTree = "<group>"; };
+		83CF412C1A721FF300BECD68 /* jumpgame.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = jumpgame.cpp; sourceTree = "<group>"; };
+		83CF41411A77998900BECD68 /* mt.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mt.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +146,14 @@
 				8301D4CB1A6A8953005F78BE /* joana.c */,
 				8301D4CD1A6AA943005F78BE /* bumblebee.c */,
 				8301D4CF1A6AAB81005F78BE /* nuclear.c */,
+				83CE587A1A6BCAD000770524 /* calc.cpp */,
+				83CE58C71A6DEBEF00770524 /* color.c */,
+				83CE58CC1A6E3CDF00770524 /* dwarf.cpp */,
+				83CE58CE1A6E49D000770524 /* koi_guard.c */,
+				83CF40EB1A6F235500BECD68 /* maze_dfs.cpp */,
+				83CF40ED1A6F5F1C00BECD68 /* euler.cpp */,
+				83CF41411A77998900BECD68 /* mt.c */,
+				838A554E1A7A127A00922E14 /* gc.c */,
 			);
 			name = Dovelet;
 			sourceTree = "<group>";
@@ -145,6 +163,8 @@
 			children = (
 				8364EFAE1A615A48000A8953 /* BRACKETS2.cpp */,
 				8364EFB91A61B1EE000A8953 /* braveduck.c */,
+				83A2CE2A1AA494B2000EC8AF /* ENCRYPT.c */,
+				83CF412C1A721FF300BECD68 /* jumpgame.cpp */,
 			);
 			name = Algospot;
 			sourceTree = "<group>";
@@ -205,8 +225,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8301D4D01A6AAB81005F78BE /* nuclear.c in Sources */,
 				8364EFB61A615B86000A8953 /* README.md in Sources */,
+				83A2CE2B1AA494B2000EC8AF /* ENCRYPT.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:01knapsack.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "j">
+            </PersistentString>
+            <PersistentString
+               value = "J[j-1]">
+            </PersistentString>
+            <PersistentString
+               value = "V[WEIGHT]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:knapsack.c">
+      </ContextState>
+      <ContextState
+         contextName = "main:greedy.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "between[C-1]">
+            </PersistentString>
+            <PersistentString
+               value = "M">
+            </PersistentString>
+            <PersistentString
+               value = "panel[i]">
+            </PersistentString>
+            <PersistentString
+               value = "barn[C]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "searchPath(int, int):beeper.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "table[i][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "orderMedal:sort.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "input[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "athletic(bool, int, int):athletic.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "makePostfix(char*, char const*):calc.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "post">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "searchPath(int):euler.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "stack">
+            </PersistentString>
+            <PersistentString
+               value = "stackIdx">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:beeper.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "table[i][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:beeper.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "table[i][j]">
+            </PersistentString>
+            <PersistentString
+               value = "N">
+            </PersistentString>
+            <PersistentString
+               value = "visit[i][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:athletic.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "win">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getJewValue:knapsack.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "jewl[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:dijkstra.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "map[min_node][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:dam.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dam[i][j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
